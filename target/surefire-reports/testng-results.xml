@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T14:19:47 IST" name="Suite" finished-at="2023-01-24T14:21:22 IST" duration-ms="95259">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T14:19:47 IST" name="Test" finished-at="2023-01-24T14:21:22 IST" duration-ms="95259">
+      <class name="snapdeal.app.TestBase">
+        <test-method is-config="true" signature="iniExtentReport()[pri:0, instance:snapdeal.app.TestBase@1e802ef9]" started-at="2023-01-24T14:19:47 IST" name="iniExtentReport" finished-at="2023-01-24T14:19:48 IST" duration-ms="818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniExtentReport -->
+        <test-method is-config="true" signature="closeSuite()[pri:0, instance:snapdeal.app.TestBase@1e802ef9]" started-at="2023-01-24T14:21:22 IST" name="closeSuite" finished-at="2023-01-24T14:21:22 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuite -->
+      </class> <!-- snapdeal.app.TestBase -->
+      <class name="testCases.SD_001_Verify_Add_To_Cart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.SD_001_Verify_Add_To_Cart@4690b489]" started-at="2023-01-24T14:19:48 IST" name="setUp" finished-at="2023-01-24T14:19:50 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SD001_VerifyAddToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.SD_001_Verify_Add_To_Cart@4690b489]" started-at="2023-01-24T14:19:50 IST" name="SD001_VerifyAddToCart" data-provider="Snapdeal_SD001_TestData" finished-at="2023-01-24T14:21:22 IST" duration-ms="91666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sonaji@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://yopmail.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sonaji]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SD001_VerifyAddToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testCases.SD_001_Verify_Add_To_Cart@4690b489]" started-at="2023-01-24T14:21:22 IST" name="tearDown" finished-at="2023-01-24T14:21:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SD001_VerifyAddToCart status=SUCCESS method=SD_001_Verify_Add_To_Cart.SD001_VerifyAddToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.SD_001_Verify_Add_To_Cart@4690b489] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SD_001_Verify_Add_To_Cart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

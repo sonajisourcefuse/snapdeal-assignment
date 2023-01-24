@@ -1,0 +1,4 @@
+20:04:56.553 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Verifying the presence of Quantity drop-down on cart modal
+20:04:56.571 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Quantity drop-down is successfully displayed on cart modal
+20:04:56.572 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Updating quantity by selecting value - 3 from Quantity drop-down 
+20:05:05.009 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - After updating the quantity subtotal of product is 699

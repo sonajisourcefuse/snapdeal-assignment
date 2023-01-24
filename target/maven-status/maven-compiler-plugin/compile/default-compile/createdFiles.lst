@@ -1,0 +1,6 @@
+pages\LoginPage.class
+snapdeal\app\TestBase.class
+utility\ElementActions.class
+pages\HomePage.class
+utility\XmlReader.class
+objectRepository\SDObjectRepository.class

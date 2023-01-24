@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestCases>
+	
+<SD001>
+    <userEmail>sonaji@yopmail.com</userEmail>
+    <email_URL>https://yopmail.com/</email_URL>
+    <username>Sonaji</username>
+	<size>6</size>
+	<quantity>2</quantity>
+	
+	
+</SD001>
+
+
+
+
+
+</TestCases>

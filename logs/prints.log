@@ -1,0 +1,3 @@
+14:21:18.917 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - After updating the quantity subtotal of product is - 749
+14:21:18.926 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Verifying that subtotal gets update as per selected quantity - 2 from Quantity drop-down 
+14:21:22.065 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Subtotal is successfully updated as per selected quantity after updating quantity with - 1498

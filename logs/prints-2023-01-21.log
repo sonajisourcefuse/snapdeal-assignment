@@ -1,0 +1,5 @@
+19:28:53.311 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Verifying if login page is displayed
+19:28:53.389 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Login Page is displayed successfully
+19:28:53.389 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Entering Mobile Numebr
+19:28:55.533 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Mobile Numebr Entered
+19:28:55.533 [main] INFO  testCases.Flipkart_001_Verify_Add_To_Cart - Clicking Request OTP Button

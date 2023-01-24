@@ -1,0 +1,4 @@
+14:21:10.262 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Quantity drop-down is successfully displayed on cart modal
+14:21:10.262 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Updating quantity by selecting value - 2 from Quantity drop-down 
+14:21:16.723 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Quantity - 2 is successfully updated from Quantity drop-down
+14:21:16.723 [main] INFO  testCases.SD_001_Verify_Add_To_Cart - Getting the subtotal of product after updating qunatity
